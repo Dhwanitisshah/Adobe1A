@@ -1,6 +1,6 @@
 """
 Adobe Hackathon Task 1A: PDF Outline Extraction
-Optimized version for improved performance and clean structure
+TEAM : Qwerty Coders
 """
 
 import os
