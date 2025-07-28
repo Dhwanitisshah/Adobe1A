@@ -85,7 +85,9 @@ docker run --rm \
 
 ## Team
 QWERTY Coders
+Dhwanit Shah,Suyash Pandey,Atishay Jain
+Bharati Vidyapeeth (DU) College of Engineering,Pune
 
 ## License & Confidentiality
 
-This document is a part of the Adobe India Hackathon 2025. Please keep the project private until instructed otherwise by the organizers.
+This document is a part of the Adobe India Hackathon 2025. 
