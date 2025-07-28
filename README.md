@@ -72,12 +72,16 @@ docker run --rm \
 
 Adobe1A-main/
 ├── README.md              → Project overview and guide
+
 ├── dockerfile             → Build instructions
+
 ├── requirements.txt       → Python dependencies
+
 ├── app/
 │   ├── extract_outline.py → Core extraction logic
 │   ├── input/             → PDF files to be processed
 │   │   └── file02.pdf
+
 │── output/            → Extracted JSON outlines
 │       └── file02.json
 
