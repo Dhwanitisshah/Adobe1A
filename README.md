@@ -78,7 +78,7 @@ Adobe1A-main/
 │   ├── extract_outline.py → Core extraction logic
 │   ├── input/             → PDF files to be processed
 │   │   └── file02.pdf
-│──output/                 → Extracted JSON outlines
+│── output/            → Extracted JSON outlines
 │       └── file02.json
 
 
