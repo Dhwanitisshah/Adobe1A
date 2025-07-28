@@ -70,12 +70,17 @@ docker run --rm \
 
   ## Folder Structure
 
-├── input/               → PDF files to be processed  
-├── output/              → Extracted JSON outlines  
-├── Dockerfile           → Build instructions  
-├── main.py              → Core extraction logic  
-├── utils/               → Supporting functions  
-├── README.md            → Project overview and guide  
+Adobe1A-main/
+├── README.md              → Project overview and guide
+├── dockerfile             → Build instructions
+├── requirements.txt       → Python dependencies
+├── app/
+│   ├── extract_outline.py → Core extraction logic
+│   ├── input/             → PDF files to be processed
+│   │   └── file02.pdf
+│──output/                 → Extracted JSON outlines
+│       └── file02.json
+
 
 ## Future Enhancements
 
